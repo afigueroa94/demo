@@ -1,0 +1,17 @@
+[33mcommit ac228c79c70fa0b119a4f92b351129c3f693b0b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ana <a.figueroa9494@gmail.com>
+Date:   Sat Jul 26 15:21:00 2025 -0500
+
+    add hello world to text.txt
+
+[33mcommit 78f8fe276c5d26e4535c36ba439df47d872d2c82[m
+Author: Ana <a.figueroa9494@gmail.com>
+Date:   Sat Jul 26 15:19:45 2025 -0500
+
+    init git repo and add text.txt
+
+[33mcommit 034a5aed4f5cde670fda454631817055f7eb8084[m
+Author: Ana <a.figueroa9494@gmail.com>
+Date:   Sat Jul 26 15:14:45 2025 -0500
+
+    init git repo and add app2
